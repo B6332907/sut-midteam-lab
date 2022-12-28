@@ -1,2 +1,3 @@
 # sut-midteam-lab
-# Ratchanon kurajok B6332907
+# Ratchanon kurajok 
+# B6332907
